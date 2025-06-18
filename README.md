@@ -2,7 +2,7 @@
 
 A dynamic dashboard designed for tracking and visualizing key performance indicators (KPIs). It features real-time data updates, customizable widgets, and user-friendly interfaces. Ideal for businesses, analytics teams, or anyone looking to manage and analyze data effectively in a visually appealing way.
 
-This project is built purely with multiple HTML, CSS, and JavaScript files — **without using any frameworks or libraries**.
+This project is built purely with multiple HTML, CSS, and JavaScript files - **without using any frameworks or libraries**.
 
 ---
 
