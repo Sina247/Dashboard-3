@@ -1,4 +1,4 @@
-# 📊 Dashboard-3
+# 📊 Dashboard 3
 
 A dynamic dashboard designed for tracking and visualizing key performance indicators (KPIs). It features real-time data updates, customizable widgets, and user-friendly interfaces. Ideal for businesses, analytics teams, or anyone looking to manage and analyze data effectively in a visually appealing way.
 
